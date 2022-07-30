@@ -3,7 +3,7 @@
     "version": 2,
     "settings": {
         "layout": {
-            "contentSize": "900",
+            "contentSize": "900px",
             "wideSize": "1200px"
         }
     }
