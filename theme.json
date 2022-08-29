@@ -6,18 +6,32 @@
             "contentSize": "900px",
             "wideSize": "1200px"
         },
+        "custom": {
+            "spacing": "14px"
+        },
         "color": {
             "palette": [
                 {
                      "slug": "primary",
-                     "color": "#D1D1E4",
+                     "color": "#122620",
                      "name": "Primary"
                 },
                 {
                      "slug": "secondary",
-                     "color": "#E4D1D1",
+                     "color": "#b68d40",
                      "name": "Secondary"
-                }
+                },
+                {
+                    "slug": "gold",
+                    "color": "#d6ad60",
+                    "name": "Gold"
+               },
+               {
+                   "slug": "cream",
+                   "color": "#f4ebd0",
+                   "name": "Cream"
+              }
+
             ],
             "gradients": [
                 {
@@ -38,7 +52,7 @@
                     "name": "Dark blue and beige"
                 }
             ]
-                 },
+        },
         "typography": {
 			"fontFamilies": [
 				{
@@ -58,9 +72,14 @@
 					"name": "Small"
 				},
 				{
-					"slug": "extra-large",
+					"slug": "medium",
+					"size": "2rem",
+					"name": "Medium"
+				},
+				{
+					"slug": "large",
 					"size": "3rem",
-					"name": "Extra large"
+					"name": "Large"
 				}
 			]
 		}
